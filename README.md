@@ -2,6 +2,8 @@
 
 This is a simple USB-C module for developing certain USB-C devices directly in FPGA gateware. Note that it’s not possible to precisely meet the USB specs with this PMOD but it might be close enough for your purposes, please check the schematics and layout.
 
+![USBCDEV](https://github.com/machdyne/usbcdev/blob/c5176d957c436b294722f00590b92ff5d916376b/usbcdev.png)
+
 This repo contains PCB layouts, schematics and pinouts.
 
 Find more information on the [product page](https://machdyne.com/product/usbcdev-pmod/).
